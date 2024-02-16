@@ -1,0 +1,12 @@
+li {
+  margin: 16px 13px;
+}
+.param-text {
+  font-weight: 700;
+  padding: 0 10px;
+}
+
+.selected{
+  border: 3px ridge #3E87F8 !important;
+  border-radius: 5px;
+}
